@@ -1,0 +1,37 @@
+.footer {
+    position: static;
+    height: 220px;
+    background-color: #777777;
+}
+
+.containerF {
+    display: flex;
+    justify-content: space-around;
+}
+
+.containerF div{
+    margin-top: 30px;
+}
+
+.containerF ul{
+    margin-top: 44px;
+}
+
+li {
+    display: block;
+    color: #ededed;
+    margin-bottom: 5px;
+}
+
+a {
+    color: #ededed;
+    cursor: pointer;
+    text-decoration: none;
+    border-bottom: 1px #a2a2a2 solid;
+}
+
+
+.pF {
+    margin-bottom: -15px;
+    color: #ededed;
+}

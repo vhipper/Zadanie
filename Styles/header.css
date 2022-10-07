@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    padding: 0;
+    background-color: #dcdcdc;
+    height: 199px;
+}
+.containerHead {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headerImg {
+    width: 318px;
+    height: 100px;
+}
+
+.pData {
+    font-size: 17px;
+    font-weight: 500;
+    color: #8b8b8b;
+}
+
+.pNumber {
+    font-size: 31px;
+    font-weight: 900;
+    color: #767676;
+}

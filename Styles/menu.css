@@ -1,0 +1,23 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    height: 58px;
+    background-color: #777777;
+}
+
+.liM {
+    display: inline;
+    color: #ffffff;
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.liM a {
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.liM a:hover {
+    border-bottom: 1px #ffffff solid;
+}
