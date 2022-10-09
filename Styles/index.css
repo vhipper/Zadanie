@@ -1,6 +1,5 @@
 body {
-    font-family: 'Comforter', cursive;
-    font-family: 'Quintessential', cursive;
+    @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Quintessential&display=swap');
     font-size: 14px;
     line-height: 22px;
     margin: 10px;
